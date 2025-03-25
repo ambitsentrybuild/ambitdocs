@@ -6,7 +6,7 @@ Ambit Sentry
 
    lumache
 Ambit Agent
-=====
+===========
 
 .. _installation:
 

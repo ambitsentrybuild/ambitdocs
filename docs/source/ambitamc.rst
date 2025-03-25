@@ -1,12 +1,12 @@
 Ambit Sentry
-===
+============
 
 .. autosummary::
    :toctree: generated
 
    lumache
 Ambit AMC
-=====
+=========
 
 .. _installation:
 
