@@ -1,22 +1,24 @@
-Welcome to Lumache's documentation!
+Welcome to Ambit Sentry's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**Ambit**  The Ambit SDP is a cutting-edge security solution 
+designed to protect services, applications, data, and resources 
+by cloaking them on the host system. 
+It provides “just-in-time” access, ensuring only authenticated 
+and authorized users or devices can interact with these resources. 
+Ambit SDP also offers comprehensive visibility into network activity 
+by capturing, monitoring, and analyzing packet flows in real time—all 
+through a single management console.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
 
-.. note::
 
-   This project is under active development.
 
 Contents
 --------
 
 .. toctree::
 
-   usage
-   api
+   ambitclient
+   ambitagent
+   ambitamc
+   ambittarcap
